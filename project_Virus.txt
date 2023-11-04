@@ -8,3 +8,19 @@ some code
 some code
 some code
 some code
+<<<<<<< .merge_file_aB2YHU
+=======
+some code
+some code
+
+some code
+some code
+some code
+some code
+some code
+some code
+
+some code
+some code
+some code
+>>>>>>> .merge_file_cSsSuD
