@@ -1,32 +1,10 @@
 //Functions for UI/UX
 
-some code
-some code
-some code
+some code some code some code some code some code some code some code some code
+some code some code some code some code
+some code some code some code some code some code some code some code some code
+some code some code some code some code
 
-some code
-some code
-some code
-some code
-
-some code
-some code
-
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-some code
-
-some code
-some code
-some code
+some code some code some code some code
+some code some code some code some code some code some code some code some code
+some code some code some code some code
